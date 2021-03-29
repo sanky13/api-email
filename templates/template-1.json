@@ -1,0 +1,7 @@
+{
+  "Template": {
+    "TemplateName": "Order-1",
+    "SubjectPart": "Greetings - Order Details, {{name}}!",
+    "HtmlPart": "<h1>Hello {{name}},</h1><p>Order placed by {{receiptient}} for quantity {{quantity}}.</p>"
+  }
+}
